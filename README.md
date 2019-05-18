@@ -92,16 +92,6 @@ AWS Region is hard codded into `me.gandrille.aws.glacier.cli.Constants.REGION_NA
 For sure, it's not that good; but it's fine with me (at least for the moment).
 
 
-## Resources
-
-* [Maven sample](https://aws.amazon.com/fr/developers/getting-started/java/)
-* [AWS Developper Guide](https://docs.aws.amazon.com/fr_fr/sdk-for-java/v1/developer-guide/welcome.html)
-* [Javadoc](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
-* [Glacier Developper API](https://docs.aws.amazon.com/fr_fr/amazonglacier/latest/dev/introduction.html)
-
-This program is using the AWS blocking API (v1).
-
-
 ## Changelog
 
 **[v0.2](../../releases/tag/v0.2)**
@@ -115,6 +105,16 @@ This program is using the AWS blocking API (v1).
 **v0.1**
 
 * Initial version using AWS SDK `v1.8.3`.
+
+
+## AWS API resources
+
+* [Maven sample](https://aws.amazon.com/fr/developers/getting-started/java/)
+* [AWS Developper Guide](https://docs.aws.amazon.com/fr_fr/sdk-for-java/v1/developer-guide/welcome.html)
+* [Javadoc](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/index.html)
+* [Glacier Developper API](https://docs.aws.amazon.com/fr_fr/amazonglacier/latest/dev/introduction.html)
+
+This program is using the AWS blocking API (v1).
 
 
 ## License
