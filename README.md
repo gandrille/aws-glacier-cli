@@ -104,7 +104,7 @@ This program is using the AWS blocking API (v1).
 
 ## Changelog
 
-**[v0.2](releases/tag/v0.2)**
+**[v0.2](../../releases/tag/v0.2)**
 
 * AWS SDK updated to `v1.11.534`.
 * Guava library removed.
