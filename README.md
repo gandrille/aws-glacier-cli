@@ -104,7 +104,7 @@ This program is using the AWS blocking API (v1).
 
 ## Changelog
 
-**Year 2019**
+**v0.2**
 
 * AWS SDK updated to `v1.11.534`.
 * Guava library removed.
@@ -112,7 +112,7 @@ This program is using the AWS blocking API (v1).
 * `UploadMultipartService` class is now deprecated since `UploadService` uses AWS multipart API.
 
 
-**Year 2014**
+**v0.1**
 
 * Initial version using AWS SDK `v1.8.3`.
 
